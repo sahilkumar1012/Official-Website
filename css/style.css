@@ -20,7 +20,14 @@
 
 
 /* Inspiration */
-
+.container{
+	border: red solid 1px ;                /* temp */
+}
+img {
+	max-width: 100%;
+	border-radius: 50%;
+	margin: 0 auto;
+}
 /* End | Inspiration */
 
 
