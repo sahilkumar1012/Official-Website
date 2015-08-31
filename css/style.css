@@ -1,3 +1,19 @@
+@font-face {
+    font-family: opensans;
+    src: url(../font/OpenSans-Light.ttf);
+}
+html{
+  min-height: 100%;
+}
+body {
+  font-family: opensans;
+  font-size: 14px;
+  line-height: 20px;
+  background:
+		url(../img/grain.png),
+		-moz-linear-gradient(top, #CAE1F4 0%,#EEEEEE 100%);
+}
+
 /* Navbar */
 
 /* Hero | Navbar */
