@@ -32,5 +32,19 @@ img {
 
 
 /* Footer */
-
+section#footer
+{
+	background: #7CB9E8;
+	padding-bottom: 25px;
+}
+footer h1 small
+{
+	color: #000000;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    margin-top: 40px;
+}
 /* End | Footer */
