@@ -15,7 +15,41 @@ body {
 }
 
 /* Navbar */
-
+#header{
+  width: 80%;
+  height:100px;          /*temp*/
+  display: flex;
+  justify-content:space-between;
+  margin: auto;
+  align-items:center;
+}
+#navbar{
+  align-items:center;
+  background-color: lightgray;
+}
+#logo{
+  height: 100px;
+}
+ul{
+  list-style-type: none;
+  /*max-width: 500px;*/
+  display: flex;
+  justify-content:space-between;
+}
+li{
+  display: inline;
+  padding: 10px;
+}
+li>a{
+  color: black;
+}
+#links{
+  width: 400px;
+}
+#logo>img{
+  height: 100px;
+  width: auto;
+}
 /* Hero | Navbar */
 
 
